@@ -2,13 +2,13 @@
       "userId": [
           {
             "id": "1",
-            "title": "GameAnalytics",
-            "completed": false
-          },
+            "title": "GameAnalytics"
+          }
+      ],
+      "application":[
           {
-            "id": "2",
-            "title": "GameNew",
-            "completed": false
+            "id": "1",
+            "title": "Add Game"
           }
       ]
     }
