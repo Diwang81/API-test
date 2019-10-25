@@ -1,14 +1,12 @@
-    {
-      "userId": [
-          {
-            "id": "1",
-            "title": "GameAnalytics"
-          }
-      ],
-      "application":[
-          {
-            "id": "1",
-            "title": "Add Game"
-          }
-      ]
-    }
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "GameAnalytics"
+  },
+  {
+    "application": 2,
+    "id": 2,
+    "title": "Add Game"
+  }
+]
