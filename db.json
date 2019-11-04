@@ -1,14 +1,14 @@
+{
+  "developer": [
     {
-      "Developer": [
-          {
-            "id": 1,
-            "title": "GameAnalytics"
-          }
-      ],
-      "application":[
-          {
-            "id": 1,
-            "title": "Add Game"
-          }
-      ]
+      "id": 1,
+      "title": "GameAnalytics"
     }
+  ],
+  "application": [
+    {
+      "id": 1,
+      "title": "Add Game"
+    }
+  ]
+}
